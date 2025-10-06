@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&text=Ragul%20V%20L&section=header&fontAlignY=35&fontSize=60&fontColor=ffffff&color=2D3748&animation=twinkling&stroke=4A5568&strokeWidth=1&font=JetBrains+Mono" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+AI+%26+Data+Science+Student;Building+Modern+Web+Applications;Full-Stack+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Teaching+Machines+to+Think;Data+Whisperer+%26+Code+Architect;Building+Intelligent+Systems;Where+Data+Meets+Creativity" alt="Typing SVG" />
 
 </div>
 
