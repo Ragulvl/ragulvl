@@ -87,9 +87,6 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
   - Gained hands-on experience in full-stack development, database management, and web application deployment.
   - Contributed to real-world projects throughout the software development lifecycle.
 
-- **Full-Stack Development Projects** – [GitHub Repo](https://github.com/Ragulvl)  
-  - Covers authentication, database integration, and modern UI features.
-
 - **AI & Data Science Projects** – Machine Learning and Data Analysis  
   - Developed machine learning models for data analysis and prediction.
   - Implemented data visualization and statistical analysis projects.
