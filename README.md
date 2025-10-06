@@ -116,6 +116,37 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 ---
 
+## Currently Learning  
+- Advanced React patterns and state management
+- Machine Learning algorithms and data analysis
+- Advanced Data Structures & Algorithms
+- Full-Stack Development best practices
+- API development and integration techniques
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ragulvl&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulvl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragulvl&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulvl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
+
+</div>
+
+---
 
 ## Codolio Statistics
 
@@ -138,47 +169,6 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ragulvl&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## Currently Learning  
-- Advanced React patterns and state management
-- Machine Learning algorithms and data analysis
-- Advanced Data Structures & Algorithms
-- Full-Stack Development best practices
-- API development and integration techniques
-
----
-
-## Recent Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulvl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
-
-</div>
-
----
-
-## GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ragulvl&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulvl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragulvl&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
