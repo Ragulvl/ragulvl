@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=200&section=header&text=Ragul%20V%20L&fontSize=60&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff&animation=twinkling&stroke=00D4FF&strokeWidth=2" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=300&text=Ragul%20V%20L&section=header&fontAlignY=39&fontSize=60&fontColor=ffffff&color=0D1117&animation=twinkling&stroke=2D3748&strokeWidth=2" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+AI+%26+Data+Science+Student;Building+Modern+Web+Applications;Full-Stack+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-
+git 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ragulvl&color=00D4FF&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Ragulvl?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
 ![GitHub User's stars](https://img.shields.io/github/stars/Ragulvl?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
