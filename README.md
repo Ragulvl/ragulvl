@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ragul%20V%20L&section=header&fontAlignY=35&fontSize=50&fontColor=ffffff&color=2D3748&animation=twinkling&stroke=4A5568&strokeWidth=1&font=JetBrains+Mono" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&text=Ragul%20V%20L&section=header&fontAlignY=35&fontSize=60&fontColor=ffffff&color=2D3748&animation=twinkling&stroke=4A5568&strokeWidth=1&font=JetBrains+Mono" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Passionate+AI+%26+Data+Science+Student;Building+Modern+Web+Applications;Full-Stack+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -149,6 +149,16 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 </picture>
 
 </div>  
+
+---
+
+## Codolio Statistics
+
+<div align="center">
+
+<img src="https://codolio.com/api/stats?username=ragul&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="Codolio Stats" />
+
+</div>
 
 ---
 
