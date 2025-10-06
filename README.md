@@ -162,7 +162,7 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 <div align="center">
 
-<img src="https://codolio.com/api/stats?username=ragul&theme=dark" alt="Codolio Stats" />
+**Visit my [Codolio Profile](https://codolio.com/profile/ragul) to see my learning progress and achievements!**
 
 </div>
 
