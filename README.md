@@ -6,10 +6,6 @@
 
 </div>
 
-<div align="center">
-  <h1>Ragul V L</h1>
-  <h3>AI & Data Science Student | Full-Stack Developer</h3>
-</div>
 
 
 <div align="center">
