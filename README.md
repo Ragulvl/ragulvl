@@ -116,28 +116,6 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ragulvl&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulvl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragulvl&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulvl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
-
-</div>
-
----
 
 ## Codolio Statistics
 
@@ -174,6 +152,38 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 ---
 
+## Recent Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulvl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
+
+</div>
+
+---
+
+## GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ragulvl&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragulvl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=00D4FF" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ragulvl&theme=dark&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ## Connect with Me  
 <p align="left">
   <a href="https://github.com/Ragulvl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -182,13 +192,4 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
   <a href="tel:+919626199577"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>  
 
----
-
-<div align="center">
-
-### Fun Fact
-*"In the vast universe of AI and code, every algorithm is a step closer to solving real-world problems!"*
-
-**⭐ From [Ragulvl](https://github.com/Ragulvl)**
-
-</div> 
+--- 
