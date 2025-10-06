@@ -7,6 +7,15 @@
 </div>
 
 <div align="center">
+  <h1>🚀 Ragul V L</h1>
+  <h3>AI & Data Science Student | Full-Stack Developer</h3>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Ragulvl/Ragulvl/blob/main/assets/gif/coding.gif?raw=true" width="400" height="300" alt="Coding GIF" />
+</div>
+
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ragulvl&color=00D4FF&style=for-the-badge&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/Ragulvl?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
