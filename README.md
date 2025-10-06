@@ -156,7 +156,13 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 <div align="center">
 
-<img src="https://codolio.com/api/stats?username=ragul&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&ring_color=00D4FF&border_color=00D4FF" alt="Codolio Stats" />
+[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/ragul)
+
+</div>
+
+<div align="center">
+
+<img src="https://codolio.com/api/stats?username=ragul&theme=dark" alt="Codolio Stats" />
 
 </div>
 
