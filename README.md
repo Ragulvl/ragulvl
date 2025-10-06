@@ -11,9 +11,6 @@
   <h3>AI & Data Science Student | Full-Stack Developer</h3>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Ragulvl/Ragulvl/blob/main/assets/gif/coding.gif?raw=true" width="400" height="300" alt="Coding GIF" />
-</div>
 
 <div align="center">
 
@@ -94,9 +91,9 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
   - Covers authentication, database integration, and modern UI features.
 
 - **AI & Data Science Projects** – Machine Learning and Data Analysis  
-  - **Google Data Science Foundation** certification completed.
-  - **Johns Hopkins Advanced Linear Models** certification completed.
-  - **RapidMiner Machine Learning** certifications completed.
+  - Developed machine learning models for data analysis and prediction.
+  - Implemented data visualization and statistical analysis projects.
+  - Built automated data processing pipelines and ETL workflows.
 
 ---
 
@@ -194,4 +191,4 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 **⭐ From [Ragulvl](https://github.com/Ragulvl)**
 
-</div>"# ragulvl" 
+</div> 
