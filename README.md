@@ -109,14 +109,15 @@ Blue Bird Matriculation Higher Secondary School
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ragul_043/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ragul042)
+[![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ragul_043)
 
 </div>
 
-- Actively participate in coding contests on platforms including **LeetCode, CodeChef**, and **CodeForces**
-- Maintain strong performance in **CodeChef Division 2** through consistent participation
+- **LeetCode**: [Ragul_043](https://leetcode.com/u/Ragul_043/) - Actively solving problems and participating in contests
+- **CodeChef**: [ragul042](https://www.codechef.com/users/ragul042) - 3★ Rating (1767) | 54 Contests | 248 Problems Solved | Division 2
+- **CodeForces**: [Ragul_043](https://codeforces.com/profile/Ragul_043) - Regular participation in contests and practice
 - Regularly practice algorithmic challenges in data structures & algorithms, dynamic programming, and optimization
 
 ---
