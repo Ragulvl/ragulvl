@@ -18,7 +18,7 @@
 
 ## About Me
 
-Passionate programmer skilled in full-stack development and problem-solving. Building modern web applications with React, Node.js, and MongoDB. Actively participating in competitive programming on LeetCode, CodeChef, and CodeForces.
+Passionate programmer skilled in full-stack development and problem-solving. Building modern web applications with React, Node.js, and MongoDB.
 
 ---
 
@@ -83,9 +83,7 @@ Blue Bird Matriculation Higher Secondary School
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -119,16 +117,13 @@ Blue Bird Matriculation Higher Secondary School
 
 - Actively participate in coding contests on platforms including **LeetCode, CodeChef**, and **CodeForces**
 - Maintain strong performance in **CodeChef Division 2** through consistent participation
-- Regularly practice algorithmic challenges in **DSA**, dynamic programming, and optimization
-
-> *Add your profile links above to make it more interactive!*
+- Regularly practice algorithmic challenges in data structures & algorithms, dynamic programming, and optimization
 
 ---
 
 ## Achievements
 
 - **1st Place** – CodeRelay Coding Competition at Karpagam College of Engineering
-- Consistently performing in **CodeChef Division 2** with a stable competitive track record
 
 ---
 
@@ -148,7 +143,7 @@ Blue Bird Matriculation Higher Secondary School
 
 - Advanced React patterns and state management
 - System design and scalable architecture
-- Advanced Data Structures & Algorithms
+- Advanced data structures & algorithms
 - API security and best practices
 - Performance optimization techniques
 
