@@ -18,8 +18,8 @@
       
 <div align="center">
 
-**Passionate AI & Data Science student** who loves building **full-stack web applications**, exploring **machine learning**, and working with **modern tech tools**.  
-Currently diving deep into **Python, React, MySQL, and API development**, while also sharpening my **C++, Java, and JavaScript** fundamentals for problem solving and algorithmic thinking.
+**Passionate programmer skilled in full-stack development and problem-solving**  
+Building modern web applications with React, Node.js, and MongoDB. Actively participating in competitive programming on LeetCode, CodeChef, and CodeForces.
 
 </div>  
 
@@ -41,6 +41,7 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 ### Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,18 +49,18 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 ### Backend & Database  
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Brevo-FF6B6B?style=for-the-badge&logo=mailgun&logoColor=white"/>
 </p>  
 
-### AI & Data Science  
+### Concepts & Skills  
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RapidMiner-FF6B6B?style=for-the-badge&logo=rapidminer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debugging-FF6B6B?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>  
 
 ### Tools & Platforms  
@@ -75,46 +76,58 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 
 ## Featured Projects  
 
-- **Fusion Forge PCs E-commerce** – Full-Stack E-commerce Platform  
-  - React + MySQL + Razorpay integration for comprehensive PC customization and e-commerce platform.
-  - Features: Responsive UI, secure authentication, admin dashboard, payment integration, email notifications.
+- **Fusion Forge PCs** – Full-Stack E-commerce Platform  
+  - **Technologies:** React, Node.js, Express, MongoDB
+  - Built a complete custom PC e-commerce platform with secure login and responsive UI.
+  - Developed an admin dashboard for product, user, and order management.
+  - Integrated Razorpay payments, Brevo email alerts, and PC customization modules.
 
-- **Web Development Internship** – LearnLogicify Technologies LLP  
-  - Gained hands-on experience in full-stack development, database management, and web application deployment.
-  - Contributed to real-world projects throughout the software development lifecycle.
+- **Dinez** – Food Ordering System  
+  - **Technologies:** React, TypeScript, Express, MongoDB
+  - Designed a multi-page food ordering system with cart features and responsive UI.
+  - Implemented smooth ordering workflow and real-time UI interactions.
 
-- **AI & Data Science Projects** – Machine Learning and Data Analysis  
-  - Developed machine learning models for data analysis and prediction.
-  - Implemented data visualization and statistical analysis projects.
-  - Built automated data processing pipelines and ETL workflows.
+## Experience
 
----
-
-## Achievements & Certifications
-
-### **Academic Excellence**
-- **B.Tech in AI & Data Science** - Kalaignar Karunanidhi Institute of Technology (CGPA: 73%)
-- **Class XII** - Blue Bird Matriculation Higher Secondary School (80%)
-
-### **Competition Achievements**
-- **1st Place** - CodeRelay Competition at Karpagam College of Engineering
-- **Team Achievement** - Secured top position in team-based coding relay with teammate Prakash
-
-### **Professional Certifications**
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| **Foundations of Data Science** | Google | ✅ Completed |
-| **Advanced Linear Models for Data Science** | Johns Hopkins University | ✅ Completed |
-| **Machine Learning Master & Professional** | RapidMiner | ✅ Completed |
+- **Web Development Intern** – LearnLogicify Technologies, Coimbatore  
+  - Worked on full-stack development involving HTML, CSS, JavaScript, React, backend APIs, and databases.
+  - Improved deployment workflows, Git versioning, API integration, and application security.
+  - Completed a second internship term where I independently developed the full-stack project **Fusion Forge PCs**.
 
 ---
 
-## Currently Learning  
-- Advanced React patterns and state management
-- Machine Learning algorithms and data analysis
-- Advanced Data Structures & Algorithms
-- Full-Stack Development best practices
-- API development and integration techniques
+## Education
+
+- **B.Tech in Artificial Intelligence and Data Science**  
+  Kalaignar Karunanidhi Institute of Technology, Coimbatore  
+  2023–Present | CGPA: 7.45
+
+- **Senior Secondary Education (State Board)**  
+  Blue Bird Matriculation Higher Secondary School  
+  2021–2023 | Percentage: 80%
+
+## Achievements
+
+- **1st Place** – CodeRelay Coding Competition at Karpagam College of Engineering
+- Consistently performing in **CodeChef Division 2** with a stable competitive track record
+
+## Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| **Python Essentials 1 & 2** | Cisco Networking Academy |
+| **Introduction to Cybersecurity** | Cisco Networking Academy |
+| **Foundations of Data Science** | Google |
+| **Advanced Linear Models for Data Science 1** | Johns Hopkins University |
+| **Machine Learning Master & Professional** | RapidMiner |
+
+---
+
+## Competitive Programming
+
+- Actively participate in coding contests on platforms including **LeetCode, CodeChef**, and **CodeForces**
+- Maintain strong performance in **CodeChef Division 2** through consistent participation
+- Regularly practice algorithmic challenges in **DSA**, dynamic programming, and optimization
 
 ---
 
