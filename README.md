@@ -93,12 +93,11 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 ## Achievements & Certifications
 
 ### **Academic Excellence**
-- **B.Tech in AI & Data Science** - Kalaignar Karunanidhi Institute of Technology (CGPA: 73%)
-- **Class XII** - Blue Bird Matriculation Higher Secondary School (80%)
+- **B.Tech in AI & Data Science** - Kalaignar Karunanidhi Institute of Technology
+- **Class XII** - Blue Bird Matriculation Higher Secondary School
 
 ### **Competition Achievements**
 - **1st Place** - CodeRelay Competition at Karpagam College of Engineering
-- **Team Achievement** - Secured top position in team-based coding relay with teammate Prakash
 
 ### **Professional Certifications**
 | Certification | Issuer | Status |
@@ -106,15 +105,6 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 | **Foundations of Data Science** | Google | ✅ Completed |
 | **Advanced Linear Models for Data Science** | Johns Hopkins University | ✅ Completed |
 | **Machine Learning Master & Professional** | RapidMiner | ✅ Completed |
-
----
-
-## Currently Learning  
-- Advanced React patterns and state management
-- Machine Learning algorithms and data analysis
-- Advanced Data Structures & Algorithms
-- Full-Stack Development best practices
-- API development and integration techniques
 
 ---
 
@@ -136,32 +126,6 @@ Currently diving deep into **Python, React, MySQL, and API development**, while 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragulvl&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&title_color=00D4FF" alt="Activity Graph" />
-
-</div>
-
----
-
-## Codolio Statistics
-
-<div align="center">
-
-[![Codolio Profile](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/ragul)
-
-</div>
-
-<div align="center">
-
-**Visit my [Codolio Profile](https://codolio.com/profile/ragul) to see my learning progress and achievements! **
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ragulvl&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
