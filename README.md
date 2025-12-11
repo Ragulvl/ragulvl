@@ -2,7 +2,7 @@
  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&width=1200&text=Ragul%20V%20L&section=header&fontAlignY=35&fontSize=60&fontColor=ffffff&color=2D3748&animation=twinkling&stroke=4A5568&strokeWidth=1&font=JetBrains+Mono" alt="Header" />
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Teaching+Machines+to+Think;Data+Whisperer+%26+Code+Architect;Building+Intelligent+Systems;Where+Data+Meets+Creativity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Competitive+Programmer;Building+Modern+Web+Apps;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -76,16 +76,20 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
 
 ## Featured Projects  
 
-- **Fusion Forge PCs** – Full-Stack E-commerce Platform  
-  - **Technologies:** React, Node.js, Express, MongoDB
-  - Built a complete custom PC e-commerce platform with secure login and responsive UI.
-  - Developed an admin dashboard for product, user, and order management.
-  - Integrated Razorpay payments, Brevo email alerts, and PC customization modules.
+### Fusion Forge PCs – Full-Stack E-commerce Platform  
+**Technologies:** `React` `Node.js` `Express` `MongoDB` `Razorpay` `Brevo`
 
-- **Dinez** – Food Ordering System  
-  - **Technologies:** React, TypeScript, Express, MongoDB
-  - Designed a multi-page food ordering system with cart features and responsive UI.
-  - Implemented smooth ordering workflow and real-time UI interactions.
+- Built a complete custom PC e-commerce platform with secure login and responsive UI
+- Developed an admin dashboard for product, user, and order management
+- Integrated Razorpay payments, Brevo email alerts, and PC customization modules
+
+### Dinez – Food Ordering System  
+**Technologies:** `React` `TypeScript` `Express` `MongoDB`
+
+- Designed a multi-page food ordering system with cart features and responsive UI
+- Implemented smooth ordering workflow and real-time UI interactions
+
+---
 
 ## Experience
 
@@ -123,11 +127,37 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
 
 ---
 
+## Currently Learning
+
+- Advanced React patterns and state management
+- System design and scalable architecture
+- Advanced Data Structures & Algorithms
+- API security and best practices
+- Performance optimization techniques
+
+---
+
 ## Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+
+</div>
 
 - Actively participate in coding contests on platforms including **LeetCode, CodeChef**, and **CodeForces**
 - Maintain strong performance in **CodeChef Division 2** through consistent participation
 - Regularly practice algorithmic challenges in **DSA**, dynamic programming, and optimization
+
+> *Add your profile links above to make it more interactive!*
+
+---
+
+## GitHub Contribution Snake
+
+![Snake animation](https://github.com/Ragulvl/Ragulvl/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
