@@ -6,8 +6,6 @@
 
 </div>
 
- 
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ragulvl&color=00D4FF&style=for-the-badge&label=Profile+Views)
@@ -15,19 +13,40 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Ragulvl?style=for-the-badge&logo=github&color=00D4FF&labelColor=000000)
 
 </div>
-      
-<div align="center">
-
-**Passionate programmer skilled in full-stack development and problem-solving**  
-Building modern web applications with React, Node.js, and MongoDB. Actively participating in competitive programming on LeetCode, CodeChef, and CodeForces.
-
-</div>  
 
 ---
 
-## Technical Skills  
+## About Me
 
-### Programming Languages  
+Passionate programmer skilled in full-stack development and problem-solving. Building modern web applications with React, Node.js, and MongoDB. Actively participating in competitive programming on LeetCode, CodeChef, and CodeForces.
+
+---
+
+## Education
+
+**B.Tech in Artificial Intelligence and Data Science**  
+Kalaignar Karunanidhi Institute of Technology, Coimbatore  
+2023–Present | CGPA: 7.45
+
+**Senior Secondary Education (State Board)**  
+Blue Bird Matriculation Higher Secondary School  
+2021–2023 | Percentage: 80%
+
+---
+
+## Experience
+
+**Web Development Intern** – LearnLogicify Technologies, Coimbatore
+
+- Worked on full-stack development involving HTML, CSS, JavaScript, React, backend APIs, and databases
+- Improved deployment workflows, Git versioning, API integration, and application security
+- Completed a second internship term where I independently developed the full-stack project **Fusion Forge PCs**
+
+---
+
+## Technical Skills
+
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -36,54 +55,54 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>  
+</p>
 
-### Frontend Development  
+### Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>  
+</p>
 
-### Backend & Database  
+### Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/API-FF6B6B?style=for-the-badge&logo=api&logoColor=white"/>
-</p>  
+</p>
 
-### Concepts & Skills  
+### Concepts & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debugging-FF6B6B?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>  
+</p>
 
-### Tools & Platforms  
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>    
+</p>
 
 ---
 
-## Featured Projects  
+## Projects
 
-### Fusion Forge PCs – Full-Stack E-commerce Platform  
+### Fusion Forge PCs – Full-Stack E-commerce Platform
 **Technologies:** `React` `Node.js` `Express` `MongoDB` `Razorpay` `Brevo`
 
 - Built a complete custom PC e-commerce platform with secure login and responsive UI
 - Developed an admin dashboard for product, user, and order management
 - Integrated Razorpay payments, Brevo email alerts, and PC customization modules
 
-### Dinez – Food Ordering System  
+### Dinez – Food Ordering System
 **Technologies:** `React` `TypeScript` `Express` `MongoDB`
 
 - Designed a multi-page food ordering system with cart features and responsive UI
@@ -91,29 +110,30 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
 
 ---
 
-## Experience
+## Competitive Programming
 
-- **Web Development Intern** – LearnLogicify Technologies, Coimbatore  
-  - Worked on full-stack development involving HTML, CSS, JavaScript, React, backend APIs, and databases.
-  - Improved deployment workflows, Git versioning, API integration, and application security.
-  - Completed a second internship term where I independently developed the full-stack project **Fusion Forge PCs**.
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+
+</div>
+
+- Actively participate in coding contests on platforms including **LeetCode, CodeChef**, and **CodeForces**
+- Maintain strong performance in **CodeChef Division 2** through consistent participation
+- Regularly practice algorithmic challenges in **DSA**, dynamic programming, and optimization
+
+> *Add your profile links above to make it more interactive!*
 
 ---
-
-## Education
-
-- **B.Tech in Artificial Intelligence and Data Science**  
-  Kalaignar Karunanidhi Institute of Technology, Coimbatore  
-  2023–Present | CGPA: 7.45
-
-- **Senior Secondary Education (State Board)**  
-  Blue Bird Matriculation Higher Secondary School  
-  2021–2023 | Percentage: 80%
 
 ## Achievements
 
 - **1st Place** – CodeRelay Coding Competition at Karpagam College of Engineering
 - Consistently performing in **CodeChef Division 2** with a stable competitive track record
+
+---
 
 ## Certifications
 
@@ -137,31 +157,7 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
 
 ---
 
-## Competitive Programming
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
-
-</div>
-
-- Actively participate in coding contests on platforms including **LeetCode, CodeChef**, and **CodeForces**
-- Maintain strong performance in **CodeChef Division 2** through consistent participation
-- Regularly practice algorithmic challenges in **DSA**, dynamic programming, and optimization
-
-> *Add your profile links above to make it more interactive!*
-
----
-
-## GitHub Contribution Snake
-
-![Snake animation](https://github.com/Ragulvl/Ragulvl/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
@@ -182,9 +178,21 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ragulvl&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/Ragulvl/Ragulvl/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ---
 
-## Codolio Statistics
+## Additional Profiles
 
 <div align="center">
 
@@ -194,28 +202,19 @@ Building modern web applications with React, Node.js, and MongoDB. Actively part
 
 <div align="center">
 
-**Visit my [Codolio Profile](https://codolio.com/profile/ragul) to see my learning progress and achievements! **
+**Visit my [Codolio Profile](https://codolio.com/profile/ragul) to see my learning progress and achievements!**
 
 </div>
 
 ---
 
-## GitHub Trophies
+## Connect with Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ragulvl&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## Connect with Me  
 <p align="left">
   <a href="https://github.com/Ragulvl"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ragul-v-l-291143292/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ragulkamelash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+919626199577"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>  
+</p>
 
---- 
+---
