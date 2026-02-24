@@ -77,6 +77,6 @@
   <!-- Bottom title block -->
   <rect x="12" y="280" width="416" height="28" rx="4" fill="#111827" opacity="0.5"/>
   <text x="28" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">DWG: RVL-DINEZ-001</text>
-  <text x="240" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">REV: 2024</text>
+  <text x="240" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">REV: 2026</text>
   <text x="340" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">SCALE: 1:1</text>
 </svg>
