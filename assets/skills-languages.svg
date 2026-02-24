@@ -1,36 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160">
-  <rect width="440" height="160" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="439" height="159" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260">
+  <rect width="440" height="260" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="439" height="259" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Title -->
-  <text x="24" y="36" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">// Languages</text>
+  <text x="24" y="32" font-size="16">🧠</text>
+  <text x="48" y="30" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">Programming Languages</text>
 
   <!-- Pills -->
-  <g font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#ccd6f6">
-    <!-- Python -->
-    <rect x="24" y="54" width="90" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
-    <circle cx="44" cy="69" r="5" fill="#3572A5"/>
-    <text x="56" y="73">Python</text>
+  <g font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">
+    <rect x="24" y="50" width="90" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="44" cy="65" r="5" fill="#3572A5"/>
+    <text x="56" y="69">Python</text>
 
-    <!-- JavaScript -->
-    <rect x="124" y="54" width="118" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
-    <circle cx="144" cy="69" r="5" fill="#F7DF1E"/>
-    <text x="156" y="73">JavaScript</text>
+    <rect x="124" y="50" width="54" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="138" cy="65" r="5" fill="#555555"/>
+    <text x="150" y="69">C</text>
 
-    <!-- Java -->
-    <rect x="252" y="54" width="80" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
-    <circle cx="272" cy="69" r="5" fill="#ED8B00"/>
-    <text x="284" y="73">Java</text>
+    <rect x="188" y="50" width="66" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="206" cy="65" r="5" fill="#00599C"/>
+    <text x="218" y="69">C++</text>
 
-    <!-- C++ -->
-    <rect x="342" y="54" width="74" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
-    <circle cx="362" cy="69" r="5" fill="#00599C"/>
-    <text x="374" y="73">C++</text>
+    <rect x="264" y="50" width="72" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="282" cy="65" r="5" fill="#ED8B00"/>
+    <text x="294" y="69">Java</text>
 
-    <!-- SQL -->
-    <rect x="24" y="96" width="72" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
-    <circle cx="44" cy="111" r="5" fill="#4479A1"/>
-    <text x="56" y="115">SQL</text>
+    <rect x="24" y="92" width="118" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="44" cy="107" r="5" fill="#F7DF1E"/>
+    <text x="56" y="111">JavaScript</text>
+
+    <rect x="152" y="92" width="66" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="170" cy="107" r="5" fill="#4479A1"/>
+    <text x="182" y="111">SQL</text>
   </g>
+
+  <!-- Separator -->
+  <rect x="24" y="140" width="395" height="1" fill="#233554" opacity="0.5"/>
+
+  <!-- Extra info -->
+  <text x="24" y="168" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
+  <text x="40" y="168" font-family="'Inter', system-ui, sans-serif" font-size="12" fill="#8892b0">Strong problem-solving mindset</text>
+
+  <text x="24" y="192" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
+  <text x="40" y="192" font-family="'Inter', system-ui, sans-serif" font-size="12" fill="#8892b0">Competitive programming enthusiast</text>
 </svg>

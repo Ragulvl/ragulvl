@@ -1,15 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
-  <rect width="900" height="130" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="899" height="129" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
+  <rect width="900" height="340" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="339" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
-  <!-- Icon -->
-  <text x="30" y="40" font-family="'Fira Code', monospace" font-size="20" fill="#64ffda">{ }</text>
-  <!-- Title -->
-  <text x="72" y="38" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#ccd6f6" font-weight="700">About Me</text>
+  <!-- Header -->
+  <text x="30" y="38" font-size="18">👨‍💻</text>
+  <text x="60" y="36" font-family="'Inter', system-ui, sans-serif" font-size="18" fill="#ccd6f6" font-weight="700">About Me</text>
 
-  <!-- Bio text -->
-  <text x="30" y="70" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">I'm a B.Tech AI &amp; Data Science student who builds things that work in the real world — not just</text>
-  <text x="30" y="90" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">in notebooks. I design robust backends, clean frontends, and practical ML pipelines.</text>
-  <text x="30" y="110" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">I care about code quality, user experience, and shipping software people actually use.</text>
+  <!-- Bio -->
+  <text x="30" y="68" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#8892b0">I'm a B.Tech student in Artificial Intelligence &amp; Data Science</text>
+  <text x="30" y="88" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#8892b0">with strong foundations in software engineering and system design.</text>
+
+  <!-- I love building -->
+  <text x="30" y="120" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6" font-weight="600">I love building:</text>
+
+  <text x="30" y="144" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="144" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Scalable web applications</text>
+
+  <text x="30" y="166" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="166" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Real-world AI solutions</text>
+
+  <text x="30" y="188" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="188" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Performance-optimized systems</text>
+
+  <text x="30" y="210" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="210" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">User-focused digital products</text>
+
+  <!-- Currently focused on -->
+  <text x="30" y="244" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6" font-weight="600">Currently focused on:</text>
+
+  <text x="30" y="268" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="268" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Full-stack development</text>
+
+  <text x="260" y="268" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="278" y="268" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">System architecture</text>
+
+  <text x="30" y="290" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="290" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Product building</text>
+
+  <text x="260" y="290" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="278" y="290" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Startup execution</text>
+
+  <!-- Closing line -->
+  <rect x="30" y="310" width="60" height="2" rx="1" fill="#233554"/>
+  <text x="30" y="330" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6" font-weight="600" font-style="italic">I don't just code — I build solutions.</text>
 </svg>

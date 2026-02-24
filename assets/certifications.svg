@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140">
-  <rect width="900" height="140" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="899" height="139" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <rect width="900" height="180" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="179" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Title -->
-  <text x="30" y="36" font-family="'Fira Code', monospace" font-size="12" fill="#f6c177">// Certifications</text>
+  <text x="30" y="34" font-size="16">🏆</text>
+  <text x="56" y="32" font-family="'Fira Code', monospace" font-size="12" fill="#f6c177">Certifications</text>
 
   <!-- Cert 1 -->
-  <text x="30" y="68" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
-  <text x="50" y="68" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#ccd6f6">Foundations of Data Science</text>
-  <text x="280" y="68" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8892b0">— Google</text>
+  <text x="30" y="64" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="64" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6">Advanced Linear Models for Data Science</text>
+  <text x="390" y="64" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">— Johns Hopkins University</text>
 
   <!-- Cert 2 -->
-  <text x="30" y="94" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
-  <text x="50" y="94" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#ccd6f6">Advanced Linear Models</text>
-  <text x="250" y="94" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8892b0">— Johns Hopkins University</text>
+  <text x="30" y="92" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="48" y="92" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6">Foundations of Data Science</text>
+  <text x="283" y="92" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">— Google</text>
 
   <!-- Cert 3 -->
   <text x="30" y="120" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
-  <text x="50" y="120" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#ccd6f6">RapidMiner ML Professional</text>
-  <text x="286" y="120" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8892b0">— RapidMiner</text>
+  <text x="48" y="120" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6">Platform Administration Master Certification</text>
+  <text x="420" y="120" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">— RapidMiner</text>
+
+  <!-- Separator -->
+  <rect x="30" y="140" width="840" height="1" fill="#233554" opacity="0.5"/>
+
+  <!-- Tagline -->
+  <text x="30" y="166" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0" font-style="italic">Continuous learner. Always upgrading.</text>
 </svg>
