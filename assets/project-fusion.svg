@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200" viewBox="0 0 440 200">
+  <rect width="440" height="200" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="439" height="199" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+  <!-- Accent top -->
+  <rect x="24" y="0" width="80" height="3" rx="2" fill="#64ffda"/>
+
+  <!-- Project icon -->
+  <text x="24" y="40" font-family="'Fira Code', monospace" font-size="18" fill="#64ffda">🖥️</text>
+  <!-- Title -->
+  <text x="54" y="38" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="18" fill="#ccd6f6" font-weight="700">Fusion Forge</text>
+
+  <!-- Description -->
+  <text x="24" y="68" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8892b0">E-commerce platform for custom PC builds</text>
+  <text x="24" y="86" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8892b0">with integrated payment processing and</text>
+  <text x="24" y="104" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8892b0">dynamic product configuration.</text>
+
+  <!-- Tech tags -->
+  <g font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">
+    <rect x="24" y="124" width="56" height="24" rx="4" fill="none" stroke="#233554" stroke-width="1"/>
+    <text x="34" y="140">React</text>
+
+    <rect x="90" y="124" width="54" height="24" rx="4" fill="none" stroke="#233554" stroke-width="1"/>
+    <text x="99" y="140">MySQL</text>
+
+    <rect x="154" y="124" width="76" height="24" rx="4" fill="none" stroke="#233554" stroke-width="1"/>
+    <text x="163" y="140">Razorpay</text>
+  </g>
+</svg>

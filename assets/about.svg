@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130">
+  <rect width="900" height="130" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="129" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+
+  <!-- Icon -->
+  <text x="30" y="40" font-family="'Fira Code', monospace" font-size="20" fill="#64ffda">{ }</text>
+  <!-- Title -->
+  <text x="72" y="38" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#ccd6f6" font-weight="700">About Me</text>
+
+  <!-- Bio text -->
+  <text x="30" y="70" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">I'm a B.Tech AI &amp; Data Science student who builds things that work in the real world — not just</text>
+  <text x="30" y="90" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">in notebooks. I design robust backends, clean frontends, and practical ML pipelines.</text>
+  <text x="30" y="110" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">I care about code quality, user experience, and shipping software people actually use.</text>
+</svg>

@@ -1,70 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
   <defs>
-    <linearGradient id="topLine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="50%" stop-color="#bc8cff"/>
-      <stop offset="100%" stop-color="#f778ba"/>
+    <linearGradient id="topAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#64ffda"/>
+      <stop offset="100%" stop-color="#64ffda" stop-opacity="0.3"/>
     </linearGradient>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#e6edf3"/>
-      <stop offset="100%" stop-color="#c9d1d9"/>
-    </linearGradient>
-    <linearGradient id="accentBar" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#58a6ff"/>
-      <stop offset="100%" stop-color="#bc8cff"/>
+      <stop offset="0%" stop-color="#0a192f"/>
+      <stop offset="100%" stop-color="#112240"/>
     </linearGradient>
   </defs>
 
   <!-- Card -->
-  <rect width="900" height="280" rx="12" fill="url(#bgGrad)"/>
-  <!-- Top gradient line -->
-  <rect width="900" height="3" rx="12" fill="url(#topLine)"/>
-  <!-- Border subtle -->
-  <rect x="0.5" y="0.5" width="899" height="279" rx="12" fill="none" stroke="#21262d" stroke-width="1"/>
+  <rect width="900" height="280" rx="14" fill="url(#bgGrad)"/>
+  <rect x="0.5" y="0.5" width="899" height="279" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+  <!-- Top accent -->
+  <rect width="200" height="3" rx="2" fill="url(#topAccent)" x="50" y="0"/>
 
-  <!-- Dot grid pattern (top-right) -->
-  <g fill="#21262d" opacity="0.6">
-    <circle cx="700" cy="30" r="1"/><circle cx="716" cy="30" r="1"/><circle cx="732" cy="30" r="1"/><circle cx="748" cy="30" r="1"/><circle cx="764" cy="30" r="1"/><circle cx="780" cy="30" r="1"/><circle cx="796" cy="30" r="1"/><circle cx="812" cy="30" r="1"/><circle cx="828" cy="30" r="1"/><circle cx="844" cy="30" r="1"/><circle cx="860" cy="30" r="1"/>
-    <circle cx="700" cy="46" r="1"/><circle cx="716" cy="46" r="1"/><circle cx="732" cy="46" r="1"/><circle cx="748" cy="46" r="1"/><circle cx="764" cy="46" r="1"/><circle cx="780" cy="46" r="1"/><circle cx="796" cy="46" r="1"/><circle cx="812" cy="46" r="1"/><circle cx="828" cy="46" r="1"/><circle cx="844" cy="46" r="1"/><circle cx="860" cy="46" r="1"/>
-    <circle cx="700" cy="62" r="1"/><circle cx="716" cy="62" r="1"/><circle cx="732" cy="62" r="1"/><circle cx="748" cy="62" r="1"/><circle cx="764" cy="62" r="1"/><circle cx="780" cy="62" r="1"/><circle cx="796" cy="62" r="1"/><circle cx="812" cy="62" r="1"/><circle cx="828" cy="62" r="1"/><circle cx="844" cy="62" r="1"/><circle cx="860" cy="62" r="1"/>
-    <circle cx="700" cy="78" r="1"/><circle cx="716" cy="78" r="1"/><circle cx="732" cy="78" r="1"/><circle cx="748" cy="78" r="1"/><circle cx="764" cy="78" r="1"/><circle cx="780" cy="78" r="1"/><circle cx="796" cy="78" r="1"/><circle cx="812" cy="78" r="1"/><circle cx="828" cy="78" r="1"/><circle cx="844" cy="78" r="1"/><circle cx="860" cy="78" r="1"/>
-    <circle cx="700" cy="94" r="1"/><circle cx="716" cy="94" r="1"/><circle cx="732" cy="94" r="1"/><circle cx="748" cy="94" r="1"/><circle cx="764" cy="94" r="1"/><circle cx="780" cy="94" r="1"/><circle cx="796" cy="94" r="1"/><circle cx="812" cy="94" r="1"/><circle cx="828" cy="94" r="1"/><circle cx="844" cy="94" r="1"/><circle cx="860" cy="94" r="1"/>
-    <circle cx="700" cy="110" r="1"/><circle cx="716" cy="110" r="1"/><circle cx="732" cy="110" r="1"/><circle cx="748" cy="110" r="1"/><circle cx="764" cy="110" r="1"/><circle cx="780" cy="110" r="1"/><circle cx="796" cy="110" r="1"/><circle cx="812" cy="110" r="1"/><circle cx="828" cy="110" r="1"/><circle cx="844" cy="110" r="1"/><circle cx="860" cy="110" r="1"/>
-    <circle cx="700" cy="126" r="1"/><circle cx="716" cy="126" r="1"/><circle cx="732" cy="126" r="1"/><circle cx="748" cy="126" r="1"/><circle cx="764" cy="126" r="1"/><circle cx="780" cy="126" r="1"/><circle cx="796" cy="126" r="1"/><circle cx="812" cy="126" r="1"/><circle cx="828" cy="126" r="1"/><circle cx="844" cy="126" r="1"/><circle cx="860" cy="126" r="1"/>
+  <!-- Dot grid (top-right decorative) -->
+  <g fill="#233554" opacity="0.7">
+    <circle cx="700" cy="35" r="1.2"/><circle cx="718" cy="35" r="1.2"/><circle cx="736" cy="35" r="1.2"/><circle cx="754" cy="35" r="1.2"/><circle cx="772" cy="35" r="1.2"/><circle cx="790" cy="35" r="1.2"/><circle cx="808" cy="35" r="1.2"/><circle cx="826" cy="35" r="1.2"/><circle cx="844" cy="35" r="1.2"/>
+    <circle cx="700" cy="53" r="1.2"/><circle cx="718" cy="53" r="1.2"/><circle cx="736" cy="53" r="1.2"/><circle cx="754" cy="53" r="1.2"/><circle cx="772" cy="53" r="1.2"/><circle cx="790" cy="53" r="1.2"/><circle cx="808" cy="53" r="1.2"/><circle cx="826" cy="53" r="1.2"/><circle cx="844" cy="53" r="1.2"/>
+    <circle cx="700" cy="71" r="1.2"/><circle cx="718" cy="71" r="1.2"/><circle cx="736" cy="71" r="1.2"/><circle cx="754" cy="71" r="1.2"/><circle cx="772" cy="71" r="1.2"/><circle cx="790" cy="71" r="1.2"/><circle cx="808" cy="71" r="1.2"/><circle cx="826" cy="71" r="1.2"/><circle cx="844" cy="71" r="1.2"/>
+    <circle cx="700" cy="89" r="1.2"/><circle cx="718" cy="89" r="1.2"/><circle cx="736" cy="89" r="1.2"/><circle cx="754" cy="89" r="1.2"/><circle cx="772" cy="89" r="1.2"/><circle cx="790" cy="89" r="1.2"/><circle cx="808" cy="89" r="1.2"/><circle cx="826" cy="89" r="1.2"/><circle cx="844" cy="89" r="1.2"/>
+    <circle cx="700" cy="107" r="1.2"/><circle cx="718" cy="107" r="1.2"/><circle cx="736" cy="107" r="1.2"/><circle cx="754" cy="107" r="1.2"/><circle cx="772" cy="107" r="1.2"/><circle cx="790" cy="107" r="1.2"/><circle cx="808" cy="107" r="1.2"/><circle cx="826" cy="107" r="1.2"/><circle cx="844" cy="107" r="1.2"/>
+    <circle cx="700" cy="125" r="1.2"/><circle cx="718" cy="125" r="1.2"/><circle cx="736" cy="125" r="1.2"/><circle cx="754" cy="125" r="1.2"/><circle cx="772" cy="125" r="1.2"/><circle cx="790" cy="125" r="1.2"/><circle cx="808" cy="125" r="1.2"/><circle cx="826" cy="125" r="1.2"/><circle cx="844" cy="125" r="1.2"/>
   </g>
 
-  <!-- Decorative </> bracket (large, background) -->
-  <text x="760" y="240" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="110" fill="#21262d" opacity="0.35" font-weight="700">&lt;/&gt;</text>
+  <!-- Decorative </> (background) -->
+  <text x="740" y="250" font-family="'Fira Code', monospace" font-size="120" fill="#112240" opacity="0.5" font-weight="700">&lt;/&gt;</text>
 
-  <!-- Small decorative bracket (top-left) -->
-  <text x="50" y="46" font-family="'Fira Code', monospace" font-size="13" fill="#30363d">/**</text>
+  <!-- Greeting -->
+  <text x="50" y="60" font-family="'Fira Code', monospace" font-size="15" fill="#64ffda">Hi, my name is</text>
 
   <!-- Name -->
-  <text x="50" y="105" font-family="'Inter', 'Segoe UI', 'SF Pro Display', system-ui, -apple-system, sans-serif" font-size="52" fill="url(#nameGrad)" font-weight="800" letter-spacing="-1.5">Ragul V L</text>
+  <text x="50" y="115" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="56" fill="#ccd6f6" font-weight="800" letter-spacing="-2">Ragul V L</text>
 
-  <!-- Role line -->
-  <text x="50" y="140" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', 'Consolas', monospace" font-size="16" fill="#58a6ff" letter-spacing="0.5">AI &amp; Data Science Student · Full-Stack Developer</text>
+  <!-- Role -->
+  <text x="50" y="155" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="28" fill="#8892b0" font-weight="600">I build things for the web.</text>
 
-  <!-- Description -->
-  <text x="50" y="176" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#8b949e" letter-spacing="0.2">Building production-ready web applications and practical ML systems.</text>
-  <text x="50" y="198" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#8b949e" letter-spacing="0.2">Passionate about clean architecture, scalable backends, and shipping code.</text>
+  <!-- Tagline -->
+  <text x="50" y="195" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#8892b0">AI &amp; Data Science Student · Full-Stack Developer · B.Tech</text>
 
-  <!-- Close decorative comment -->
-  <text x="50" y="218" font-family="'Fira Code', monospace" font-size="13" fill="#30363d">*/</text>
-
-  <!-- Accent bar -->
-  <rect x="50" y="235" width="140" height="3" rx="2" fill="url(#accentBar)"/>
-
-  <!-- Status -->
-  <circle cx="58" cy="260" r="5" fill="#3fb950"/>
-  <circle cx="58" cy="260" r="5" fill="#3fb950" opacity="0.4">
-    <animate attributeName="r" values="5;8;5" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.4;0;0.4" dur="2s" repeatCount="indefinite"/>
+  <!-- Status pill -->
+  <rect x="50" y="220" width="310" height="32" rx="16" fill="none" stroke="#64ffda" stroke-width="1" opacity="0.5"/>
+  <circle cx="70" cy="236" r="4" fill="#64ffda"/>
+  <circle cx="70" cy="236" r="4" fill="#64ffda" opacity="0.3">
+    <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0;0.3" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="72" y="264" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8b949e">Open to internships &amp; SDE opportunities</text>
+  <text x="84" y="240" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">Open to internships &amp; SDE roles</text>
 </svg>

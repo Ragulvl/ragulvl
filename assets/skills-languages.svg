@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160">
+  <rect width="440" height="160" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="439" height="159" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="24" y="36" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">// Languages</text>
+
+  <!-- Pills -->
+  <g font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#ccd6f6">
+    <!-- Python -->
+    <rect x="24" y="54" width="90" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="44" cy="69" r="5" fill="#3572A5"/>
+    <text x="56" y="73">Python</text>
+
+    <!-- JavaScript -->
+    <rect x="124" y="54" width="118" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="144" cy="69" r="5" fill="#F7DF1E"/>
+    <text x="156" y="73">JavaScript</text>
+
+    <!-- Java -->
+    <rect x="252" y="54" width="80" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="272" cy="69" r="5" fill="#ED8B00"/>
+    <text x="284" y="73">Java</text>
+
+    <!-- C++ -->
+    <rect x="342" y="54" width="74" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="362" cy="69" r="5" fill="#00599C"/>
+    <text x="374" y="73">C++</text>
+
+    <!-- SQL -->
+    <rect x="24" y="96" width="72" height="30" rx="15" fill="none" stroke="#233554" stroke-width="1"/>
+    <circle cx="44" cy="111" r="5" fill="#4479A1"/>
+    <text x="56" y="115">SQL</text>
+  </g>
+</svg>
