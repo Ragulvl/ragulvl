@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30">
+  <defs>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#21262d" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#21262d"/>
+      <stop offset="70%" stop-color="#21262d"/>
+      <stop offset="100%" stop-color="#21262d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="30" fill="transparent"/>
+  <!-- Left fade line -->
+  <line x1="80" y1="15" x2="415" y2="15" stroke="url(#lineGrad)" stroke-width="1"/>
+  <!-- Center bracket -->
+  <text x="450" y="20" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="14" fill="#30363d" text-anchor="middle" font-weight="600">{ }</text>
+  <!-- Right fade line -->
+  <line x1="485" y1="15" x2="820" y2="15" stroke="url(#lineGrad)" stroke-width="1"/>
+</svg>
