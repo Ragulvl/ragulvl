@@ -9,7 +9,7 @@
 </p>
 
 <br/>
-
+  
 <!-- Tech Stack — Bento Grid -->
 <table>
   <tr>
@@ -21,11 +21,8 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td colspan="2">
       <img src="assets/skills-backend.svg" alt="Backend & Databases" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="assets/skills-data.svg" alt="ML & Data" width="100%"/>
     </td>
   </tr>
 </table>
