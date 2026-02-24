@@ -34,7 +34,7 @@
 
 <!-- Projects — Blueprints -->
 
-| [![Schematic: Dinez](assets/blueprint-dinez.svg)](https://github.com/Ragulvl/dinez) | [![Schematic: Fusion Forge](assets/blueprint-fusion.svg)](https://github.com/Ragulvl/fusion-forge) |
+| [![Schematic: Dinez](assets/blueprint-dinez.svg)](http://dinez.in/) | [![Schematic: Fusion Forge](assets/blueprint-fusion.svg)](https://fusionforge.onrender.com/) |
 |:---:|:---:|
 
 <br/>
