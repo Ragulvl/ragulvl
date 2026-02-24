@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340">
-  <rect width="900" height="340" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="899" height="339" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290">
+  <rect width="900" height="290" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="289" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Header -->
   <text x="30" y="38" font-size="18">👨‍💻</text>
@@ -35,13 +35,6 @@
   <text x="260" y="268" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
   <text x="278" y="268" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">System architecture</text>
 
-  <text x="30" y="290" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
-  <text x="48" y="290" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Product building</text>
-
-  <text x="260" y="290" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
-  <text x="278" y="290" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Startup execution</text>
-
-  <!-- Closing line -->
-  <rect x="30" y="310" width="60" height="2" rx="1" fill="#233554"/>
-  <text x="30" y="330" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6" font-weight="600" font-style="italic">I don't just code — I build solutions.</text>
+  <text x="480" y="268" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
+  <text x="498" y="268" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">Product building</text>
 </svg>

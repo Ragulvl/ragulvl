@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <rect width="900" height="180" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="899" height="179" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+  <rect width="900" height="150" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="149" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Title -->
   <text x="30" y="34" font-size="16">🏆</text>
@@ -21,10 +21,4 @@
   <text x="30" y="120" font-family="'Fira Code', monospace" font-size="12" fill="#64ffda">▸</text>
   <text x="48" y="120" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6">Platform Administration Master Certification</text>
   <text x="420" y="120" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">— RapidMiner</text>
-
-  <!-- Separator -->
-  <rect x="30" y="140" width="840" height="1" fill="#233554" opacity="0.5"/>
-
-  <!-- Tagline -->
-  <text x="30" y="166" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0" font-style="italic">Continuous learner. Always upgrading.</text>
 </svg>

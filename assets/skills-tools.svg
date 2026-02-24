@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
-  <rect width="900" height="180" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="899" height="179" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
+  <rect width="900" height="120" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="119" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Title -->
   <text x="24" y="32" font-size="16">🛠️</text>
@@ -33,10 +33,4 @@
     <circle cx="676" cy="65" r="5" fill="#FCC624"/>
     <text x="688" y="69">Linux (Basic)</text>
   </g>
-
-  <!-- Separator -->
-  <rect x="24" y="100" width="855" height="1" fill="#233554" opacity="0.5"/>
-
-  <!-- Tagline -->
-  <text x="24" y="128" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0" font-style="italic">Focused on productivity &amp; clean workflows.</text>
 </svg>

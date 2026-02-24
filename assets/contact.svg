@@ -1,65 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
-  <rect width="900" height="250" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="899" height="249" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+  <rect width="900" height="170" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="899" height="169" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Title -->
   <text x="30" y="34" font-size="16">📬</text>
   <text x="56" y="32" font-family="'Inter', system-ui, sans-serif" font-size="18" fill="#ccd6f6" font-weight="700">Let's Connect</text>
 
-  <!-- Open to section -->
-  <text x="30" y="64" font-family="'Inter', system-ui, sans-serif" font-size="14" fill="#ccd6f6" font-weight="600">Open to:</text>
-
+  <!-- Open to -->
   <g font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0">
-    <text x="30" y="88" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
-    <text x="46" y="88">Internships</text>
+    <text x="30" y="62" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
+    <text x="46" y="62">Internships</text>
 
-    <text x="170" y="88" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
-    <text x="186" y="88">Collaboration</text>
+    <text x="170" y="62" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
+    <text x="186" y="62">Collaboration</text>
 
-    <text x="340" y="88" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
-    <text x="356" y="88">Startup discussions</text>
-
-    <text x="540" y="88" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
-    <text x="556" y="88">Innovative projects</text>
+    <text x="340" y="62" font-family="'Fira Code', monospace" font-size="11" fill="#64ffda">▸</text>
+    <text x="356" y="62">Open source projects</text>
   </g>
 
   <!-- Separator -->
-  <rect x="30" y="110" width="840" height="1" fill="#233554" opacity="0.5"/>
+  <rect x="30" y="82" width="840" height="1" fill="#233554" opacity="0.5"/>
 
-  <!-- Contact details -->
   <!-- Email -->
-  <g transform="translate(30, 130)">
+  <g transform="translate(30, 100)">
     <rect width="310" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
-    <rect x="14" y="12" width="16" height="12" rx="2" fill="none" stroke="#EA4335" stroke-width="1.5"/>
-    <polyline points="14,12 22,19 30,12" fill="none" stroke="#EA4335" stroke-width="1.5"/>
-    <text x="42" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">📧  ragulkamelash@gmail.com</text>
+    <text x="18" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">📧  ragulkamelash@gmail.com</text>
   </g>
 
-  <!-- Phone -->
-  <g transform="translate(360, 130)">
-    <rect width="240" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
-    <text x="18" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">📱  +91 9626199577</text>
-  </g>
-
-  <!-- Location -->
-  <g transform="translate(620, 130)">
-    <rect width="240" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
-    <text x="18" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">📍  Chennai, India</text>
-  </g>
-
-  <!-- Social links -->
-  <g transform="translate(30, 186)">
-    <rect width="200" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
+  <!-- GitHub -->
+  <g transform="translate(360, 100)">
+    <rect width="220" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
     <circle cx="24" cy="18" r="8" fill="none" stroke="#ccd6f6" stroke-width="1.5"/>
     <circle cx="24" cy="15" r="3" fill="#ccd6f6"/>
     <text x="42" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">github.com/Ragulvl</text>
   </g>
 
-  <g transform="translate(250, 186)">
-    <rect width="310" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
+  <!-- LinkedIn -->
+  <g transform="translate(600, 100)">
+    <rect width="260" height="36" rx="8" fill="none" stroke="#233554" stroke-width="1"/>
     <rect x="14" y="10" width="16" height="16" rx="3" fill="none" stroke="#0A66C2" stroke-width="1.5"/>
     <text x="19" y="23" font-family="'Inter', system-ui, sans-serif" font-size="10" fill="#0A66C2" font-weight="700">in</text>
-    <text x="42" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">linkedin.com/in/ragul-v-l-291143292</text>
+    <text x="42" y="22" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#ccd6f6">linkedin.com/in/ragul-v-l</text>
   </g>
 </svg>

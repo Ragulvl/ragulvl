@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260">
-  <rect width="440" height="260" rx="14" fill="#112240"/>
-  <rect x="0.5" y="0.5" width="439" height="259" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="180" viewBox="0 0 440 180">
+  <rect width="440" height="180" rx="14" fill="#112240"/>
+  <rect x="0.5" y="0.5" width="439" height="179" rx="14" fill="none" stroke="#233554" stroke-width="1"/>
 
   <!-- Title -->
   <text x="24" y="32" font-size="16">⚙️</text>
@@ -29,10 +29,4 @@
     <circle cx="142" cy="107" r="5" fill="#00e5a0"/>
     <text x="154" y="111">NEON (PostgreSQL)</text>
   </g>
-
-  <!-- Separator -->
-  <rect x="24" y="140" width="395" height="1" fill="#233554" opacity="0.5"/>
-
-  <!-- Tagline -->
-  <text x="24" y="168" font-family="'Inter', system-ui, sans-serif" font-size="13" fill="#8892b0" font-style="italic">Designing secure, scalable backend systems.</text>
 </svg>
