@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160">
+  <!-- Window frame -->
+  <rect width="900" height="160" rx="10" fill="#1e1e2e"/>
+  <rect width="900" height="34" rx="10" fill="#313244"/>
+  <rect y="24" width="900" height="10" fill="#313244"/>
+  <rect x="0.5" y="0.5" width="899" height="159" rx="10" fill="none" stroke="#45475a" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="17" r="5" fill="#f38ba8"/>
+  <circle cx="42" cy="17" r="5" fill="#f9e2af"/>
+  <circle cx="62" cy="17" r="5" fill="#a6e3a1"/>
+
+  <!-- Tab -->
+  <rect x="85" y="4" width="180" height="24" rx="5" fill="#1e1e2e"/>
+  <text x="102" y="20" font-family="'Fira Code', monospace" font-size="11" fill="#a6adc8">~/ragulvl — bash</text>
+
+  <!-- Terminal content -->
+  <g font-family="'Fira Code', 'Cascadia Code', monospace" font-size="13">
+    <!-- Command -->
+    <text x="24" y="58" fill="#94e2d5">❯</text>
+    <text x="44" y="58" fill="#cdd6f4">env <tspan fill="#45475a">|</tspan> grep <tspan fill="#a6e3a1">CONTACT</tspan></text>
+
+    <!-- Environment variables -->
+    <text x="24" y="86">
+      <tspan fill="#b4befe">EMAIL</tspan><tspan fill="#45475a">=</tspan><tspan fill="#a6e3a1">ragulkamelash@gmail.com</tspan>
+    </text>
+
+    <text x="24" y="110">
+      <tspan fill="#b4befe">GITHUB</tspan><tspan fill="#45475a">=</tspan><tspan fill="#a6e3a1">github.com/Ragulvl</tspan>
+    </text>
+
+    <text x="24" y="134">
+      <tspan fill="#b4befe">LINKEDIN</tspan><tspan fill="#45475a">=</tspan><tspan fill="#a6e3a1">linkedin.com/in/ragul-v-l</tspan>
+    </text>
+  </g>
+</svg>
