@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <defs>
+    <pattern id="gridAch" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.4" fill="#1e293b"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="230" rx="12" fill="#0a0e1a"/>
+  <rect width="900" height="230" rx="12" fill="url(#gridAch)" opacity="0.6"/>
+  <rect x="1" y="1" width="898" height="228" rx="12" fill="none" stroke="#ffb800" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Corner brackets -->
+  <path d="M 14 26 L 14 14 L 26 14" fill="none" stroke="#ffb800" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 874 14 L 886 14 L 886 26" fill="none" stroke="#ffb800" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 14 204 L 14 216 L 26 216" fill="none" stroke="#ffb800" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 886 204 L 886 216 L 874 216" fill="none" stroke="#ffb800" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Header -->
+  <rect x="14" y="14" width="872" height="28" rx="4" fill="#111827" opacity="0.8"/>
+  <text x="32" y="33" font-family="'Fira Code',monospace" font-size="11" fill="#ffb800" letter-spacing="2">★ COMMENDATIONS LOG</text>
+  <text x="810" y="33" font-family="'Fira Code',monospace" font-size="9" fill="#64748b">3 ENTRIES</text>
+
+  <!-- Achievement 1 -->
+  <rect x="24" y="56" width="856" height="44" rx="6" fill="#111827" stroke="#ffb800" stroke-width="0.5" opacity="0.8"/>
+  <text x="44" y="74" font-family="'Fira Code',monospace" font-size="14" fill="#ffb800">★</text>
+  <text x="68" y="74" font-family="'Fira Code','Cascadia Code',monospace" font-size="13" fill="#e2e8f0" font-weight="600">Advanced Linear Models</text>
+  <text x="68" y="92" font-family="'Fira Code',monospace" font-size="10" fill="#64748b">Issuing Authority: JHU (Johns Hopkins University)</text>
+  <rect x="760" y="68" width="100" height="18" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+  <text x="778" y="81" font-family="'Fira Code',monospace" font-size="9" fill="#39ff14">✓ VERIFIED</text>
+
+  <!-- Achievement 2 -->
+  <rect x="24" y="110" width="856" height="44" rx="6" fill="#111827" stroke="#ffb800" stroke-width="0.5" opacity="0.8"/>
+  <text x="44" y="128" font-family="'Fira Code',monospace" font-size="14" fill="#ffb800">★</text>
+  <text x="68" y="128" font-family="'Fira Code','Cascadia Code',monospace" font-size="13" fill="#e2e8f0" font-weight="600">Data Science Foundations</text>
+  <text x="68" y="146" font-family="'Fira Code',monospace" font-size="10" fill="#64748b">Issuing Authority: Google</text>
+  <rect x="760" y="122" width="100" height="18" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+  <text x="778" y="135" font-family="'Fira Code',monospace" font-size="9" fill="#39ff14">✓ VERIFIED</text>
+
+  <!-- Achievement 3 -->
+  <rect x="24" y="164" width="856" height="44" rx="6" fill="#111827" stroke="#ffb800" stroke-width="0.5" opacity="0.8"/>
+  <text x="44" y="182" font-family="'Fira Code',monospace" font-size="14" fill="#ffb800">★</text>
+  <text x="68" y="182" font-family="'Fira Code','Cascadia Code',monospace" font-size="13" fill="#e2e8f0" font-weight="600">Platform Admin Master</text>
+  <text x="68" y="200" font-family="'Fira Code',monospace" font-size="10" fill="#64748b">Issuing Authority: RapidMiner</text>
+  <rect x="760" y="176" width="100" height="18" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+  <text x="778" y="189" font-family="'Fira Code',monospace" font-size="9" fill="#39ff14">✓ VERIFIED</text>
+</svg>

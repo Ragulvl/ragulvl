@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="380" viewBox="0 0 440 380">
+  <defs>
+    <pattern id="gridFE" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.4" fill="#1e293b"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="440" height="380" rx="12" fill="#0a0e1a"/>
+  <rect width="440" height="380" rx="12" fill="url(#gridFE)" opacity="0.6"/>
+  <rect x="1" y="1" width="438" height="378" rx="12" fill="none" stroke="#ff00aa" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Corner brackets (magenta) -->
+  <path d="M 12 24 L 12 12 L 24 12" fill="none" stroke="#ff00aa" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 416 12 L 428 12 L 428 24" fill="none" stroke="#ff00aa" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 12 356 L 12 368 L 24 368" fill="none" stroke="#ff00aa" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 428 356 L 428 368 L 416 368" fill="none" stroke="#ff00aa" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Header -->
+  <rect x="12" y="12" width="416" height="26" rx="4" fill="#111827" opacity="0.8"/>
+  <text x="28" y="30" font-family="'Fira Code',monospace" font-size="10" fill="#ff00aa" letter-spacing="2">◆ SUBSYSTEM: FRONTEND</text>
+  <circle cx="400" cy="25" r="3" fill="#39ff14">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Module cards -->
+  <g font-family="'Fira Code','Cascadia Code',monospace">
+    
+    <!-- React.js module -->
+    <rect x="24" y="56" width="392" height="46" rx="6" fill="#111827" stroke="#ff00aa" stroke-width="0.6" opacity="0.9"/>
+    <circle cx="44" cy="79" r="4" fill="#39ff14" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="75" font-size="13" fill="#e2e8f0" font-weight="600">React.js</text>
+    <text x="58" y="90" font-size="9" fill="#64748b">Component-based framework</text>
+    <rect x="340" y="70" width="60" height="16" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+    <text x="355" y="82" font-size="8" fill="#39ff14">ONLINE</text>
+    <!-- Circuit connector -->
+    <line x1="416" y1="79" x2="428" y2="79" stroke="#ff00aa" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- HTML5 module -->
+    <rect x="24" y="112" width="392" height="46" rx="6" fill="#111827" stroke="#ff00aa" stroke-width="0.6" opacity="0.9"/>
+    <circle cx="44" cy="135" r="4" fill="#39ff14" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="131" font-size="13" fill="#e2e8f0" font-weight="600">HTML5</text>
+    <text x="58" y="146" font-size="9" fill="#64748b">Semantic markup structure</text>
+    <rect x="340" y="126" width="60" height="16" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+    <text x="355" y="138" font-size="8" fill="#39ff14">ONLINE</text>
+    <line x1="416" y1="135" x2="428" y2="135" stroke="#ff00aa" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- CSS3 module -->
+    <rect x="24" y="168" width="392" height="46" rx="6" fill="#111827" stroke="#ff00aa" stroke-width="0.6" opacity="0.9"/>
+    <circle cx="44" cy="191" r="4" fill="#39ff14" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="187" font-size="13" fill="#e2e8f0" font-weight="600">CSS3</text>
+    <text x="58" y="202" font-size="9" fill="#64748b">Responsive styling engine</text>
+    <rect x="340" y="182" width="60" height="16" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+    <text x="355" y="194" font-size="8" fill="#39ff14">ONLINE</text>
+    <line x1="416" y1="191" x2="428" y2="191" stroke="#ff00aa" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- ES6+ module -->
+    <rect x="24" y="224" width="392" height="46" rx="6" fill="#111827" stroke="#ff00aa" stroke-width="0.6" opacity="0.9"/>
+    <circle cx="44" cy="247" r="4" fill="#39ff14" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="243" font-size="13" fill="#e2e8f0" font-weight="600">ES6+</text>
+    <text x="58" y="258" font-size="9" fill="#64748b">Modern JavaScript standard</text>
+    <rect x="340" y="238" width="60" height="16" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+    <text x="355" y="250" font-size="8" fill="#39ff14">ONLINE</text>
+    <line x1="416" y1="247" x2="428" y2="247" stroke="#ff00aa" stroke-width="0.5" opacity="0.3"/>
+
+    <!-- Responsive UI module -->
+    <rect x="24" y="280" width="392" height="46" rx="6" fill="#111827" stroke="#ff00aa" stroke-width="0.6" opacity="0.9"/>
+    <circle cx="44" cy="303" r="4" fill="#39ff14" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="299" font-size="13" fill="#e2e8f0" font-weight="600">Responsive UI</text>
+    <text x="58" y="314" font-size="9" fill="#64748b">Adaptive layout paradigm</text>
+    <rect x="340" y="294" width="60" height="16" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.5"/>
+    <text x="355" y="306" font-size="8" fill="#39ff14">ONLINE</text>
+    <line x1="416" y1="303" x2="428" y2="303" stroke="#ff00aa" stroke-width="0.5" opacity="0.3"/>
+  </g>
+
+  <!-- Vertical circuit line connecting modules -->
+  <line x1="44" y1="102" x2="44" y2="112" stroke="#ff00aa" stroke-width="0.5" opacity="0.3" stroke-dasharray="2,2"/>
+  <line x1="44" y1="158" x2="44" y2="168" stroke="#ff00aa" stroke-width="0.5" opacity="0.3" stroke-dasharray="2,2"/>
+  <line x1="44" y1="214" x2="44" y2="224" stroke="#ff00aa" stroke-width="0.5" opacity="0.3" stroke-dasharray="2,2"/>
+  <line x1="44" y1="270" x2="44" y2="280" stroke="#ff00aa" stroke-width="0.5" opacity="0.3" stroke-dasharray="2,2"/>
+
+  <!-- Bottom status -->
+  <rect x="12" y="340" width="416" height="18" rx="3" fill="#111827" opacity="0.6"/>
+  <text x="24" y="353" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">MODULES: 5 │ STATUS: ALL OPERATIONAL</text>
+  <text x="370" y="353" font-family="'Fira Code',monospace" font-size="8" fill="#ff00aa">FE-SYS</text>
+</svg>

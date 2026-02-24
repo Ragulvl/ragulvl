@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="380" viewBox="0 0 440 380">
+  <defs>
+    <filter id="glowR" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#00f0ff" flood-opacity="0.4" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="gridRadar" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.4" fill="#1e293b"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="440" height="380" rx="12" fill="#0a0e1a"/>
+  <rect width="440" height="380" rx="12" fill="url(#gridRadar)" opacity="0.6"/>
+  <rect x="1" y="1" width="438" height="378" rx="12" fill="none" stroke="#00f0ff" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Corner brackets -->
+  <path d="M 12 24 L 12 12 L 24 12" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 416 12 L 428 12 L 428 24" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 12 356 L 12 368 L 24 368" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
+  <path d="M 428 356 L 428 368 L 416 368" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Header -->
+  <rect x="12" y="12" width="416" height="26" rx="4" fill="#111827" opacity="0.8"/>
+  <text x="28" y="30" font-family="'Fira Code',monospace" font-size="10" fill="#00f0ff" letter-spacing="2">◆ LANGUAGE DETECTION ARRAY</text>
+  <circle cx="400" cy="25" r="3" fill="#39ff14">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Radar scope -->
+  <g transform="translate(220, 210)">
+    <!-- Concentric rings -->
+    <circle cx="0" cy="0" r="130" fill="none" stroke="#1e293b" stroke-width="1"/>
+    <circle cx="0" cy="0" r="100" fill="none" stroke="#1e293b" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="70" fill="none" stroke="#1e293b" stroke-width="0.6"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#1e293b" stroke-width="0.5"/>
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#00f0ff" stroke-width="0.5" opacity="0.4"/>
+    
+    <!-- Cross hairs -->
+    <line x1="-130" y1="0" x2="130" y2="0" stroke="#1e293b" stroke-width="0.5"/>
+    <line x1="0" y1="-130" x2="0" y2="130" stroke="#1e293b" stroke-width="0.5"/>
+    <line x1="-92" y1="-92" x2="92" y2="92" stroke="#1e293b" stroke-width="0.3" opacity="0.5"/>
+    <line x1="92" y1="-92" x2="-92" y2="92" stroke="#1e293b" stroke-width="0.3" opacity="0.5"/>
+
+    <!-- Sweep line -->
+    <line x1="0" y1="0" x2="0" y2="-130" stroke="#00f0ff" stroke-width="1.5" opacity="0.7">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="5s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Sweep trail (fading arc) -->
+    <path d="M 0 0 L 0 -130 A 130 130 0 0 1 92 -92 Z" fill="#00f0ff" opacity="0.04">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="5s" repeatCount="indefinite"/>
+    </path>
+
+    <!-- Language blips with labels -->
+    
+    <!-- Python — top area, strong signal -->
+    <circle cx="-30" cy="-85" r="6" fill="#3572A5" opacity="0.9" filter="url(#glowR)">
+      <animate attributeName="opacity" values="0.9;0.5;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-30" y="-96" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#3572A5">Python</text>
+
+    <!-- JavaScript — right area -->
+    <circle cx="75" cy="-40" r="6" fill="#F7DF1E" opacity="0.9" filter="url(#glowR)">
+      <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="75" y="-52" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#F7DF1E">JavaScript</text>
+
+    <!-- Java — bottom right -->
+    <circle cx="55" cy="60" r="5" fill="#ED8B00" opacity="0.8" filter="url(#glowR)">
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="55" y="78" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#ED8B00">Java</text>
+
+    <!-- C — left area -->
+    <circle cx="-80" cy="20" r="4.5" fill="#555555" opacity="0.7" filter="url(#glowR)">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-80" y="34" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#a0a0a0">C</text>
+
+    <!-- C++ — lower left -->
+    <circle cx="-60" cy="70" r="4.5" fill="#00599C" opacity="0.7" filter="url(#glowR)">
+      <animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-60" y="84" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#00599C">C++</text>
+
+    <!-- SQL — upper right -->
+    <circle cx="95" cy="15" r="4" fill="#4479A1" opacity="0.7" filter="url(#glowR)">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="95" y="6" text-anchor="middle" font-family="'Fira Code',monospace" font-size="9" fill="#4479A1">SQL</text>
+
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="3" fill="#00f0ff" opacity="0.6">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Bottom status -->
+  <rect x="12" y="352" width="416" height="18" rx="3" fill="#111827" opacity="0.6"/>
+  <text x="24" y="365" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">TARGETS DETECTED: 6</text>
+  <text x="340" y="365" font-family="'Fira Code',monospace" font-size="8" fill="#39ff14">SCANNING</text>
+</svg>

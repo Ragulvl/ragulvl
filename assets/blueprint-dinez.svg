@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="320" viewBox="0 0 440 320">
+  <defs>
+    <pattern id="bpGridD" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#162447" stroke-width="0.5"/>
+    </pattern>
+    <filter id="glowBP" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-color="#00f0ff" flood-opacity="0.4" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glow"/>
+      <feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Blueprint background -->
+  <rect width="440" height="320" rx="12" fill="#0a1128"/>
+  <rect width="440" height="320" rx="12" fill="url(#bpGridD)" opacity="0.8"/>
+  <rect x="1" y="1" width="438" height="318" rx="12" fill="none" stroke="#00f0ff" stroke-width="0.8" opacity="0.25"/>
+
+  <!-- Corner markers (engineering blueprint style) -->
+  <g stroke="#00f0ff" stroke-width="1" opacity="0.5">
+    <line x1="12" y1="16" x2="12" y2="30"/><line x1="12" y1="16" x2="26" y2="16"/>
+    <line x1="428" y1="16" x2="414" y2="16"/><line x1="428" y1="16" x2="428" y2="30"/>
+    <line x1="12" y1="304" x2="12" y2="290"/><line x1="12" y1="304" x2="26" y2="304"/>
+    <line x1="428" y1="304" x2="414" y2="304"/><line x1="428" y1="304" x2="428" y2="290"/>
+  </g>
+
+  <!-- Title block (top) -->
+  <rect x="12" y="12" width="416" height="30" rx="4" fill="#111827" opacity="0.7"/>
+  <text x="28" y="32" font-family="'Fira Code',monospace" font-size="10" fill="#00f0ff" letter-spacing="1">SCHEMATIC: DINEZ</text>
+  <rect x="330" y="18" width="86" height="18" rx="3" fill="#0a0e1a" stroke="#39ff14" stroke-width="0.6"/>
+  <text x="343" y="31" font-family="'Fira Code',monospace" font-size="8" fill="#39ff14">● ACTIVE</text>
+
+  <!-- Project name large -->
+  <text x="28" y="72" font-family="'Inter',system-ui,sans-serif" font-size="22" font-weight="800" fill="#e2e8f0" filter="url(#glowBP)">🍽️ Dinez</text>
+  <text x="28" y="92" font-family="'Fira Code',monospace" font-size="11" fill="#ff00aa">Smart Canteen Platform</text>
+
+  <!-- Spec divider -->
+  <line x1="28" y1="104" x2="412" y2="104" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Technical specifications -->
+  <g font-family="'Fira Code','Cascadia Code',monospace" font-size="11">
+    <text x="28" y="126" fill="#64748b" font-size="9" letter-spacing="1">SPECIFICATIONS</text>
+    
+    <text x="28" y="150" fill="#e2e8f0" opacity="0.9">▸ Digital food ordering system</text>
+    <text x="28" y="172" fill="#e2e8f0" opacity="0.8">▸ Real-time order tracking</text>
+    <text x="28" y="194" fill="#e2e8f0" opacity="0.7">▸ Scalable backend architecture</text>
+  </g>
+
+  <!-- Spec divider -->
+  <line x1="28" y1="212" x2="412" y2="212" stroke="#1e293b" stroke-width="1"/>
+
+  <!-- Component callouts (tech stack) -->
+  <text x="28" y="234" font-family="'Fira Code',monospace" font-size="9" fill="#64748b" letter-spacing="1">COMPONENTS</text>
+
+  <g font-family="'Fira Code',monospace" font-size="10">
+    <rect x="28" y="244" width="64" height="22" rx="4" fill="#111827" stroke="#00f0ff" stroke-width="0.6"/>
+    <text x="40" y="259" fill="#00f0ff">React</text>
+
+    <rect x="100" y="244" width="72" height="22" rx="4" fill="#111827" stroke="#00f0ff" stroke-width="0.6"/>
+    <text x="112" y="259" fill="#00f0ff">Node.js</text>
+
+    <rect x="180" y="244" width="60" height="22" rx="4" fill="#111827" stroke="#00f0ff" stroke-width="0.6"/>
+    <text x="192" y="259" fill="#00f0ff">MySQL</text>
+
+    <rect x="248" y="244" width="80" height="22" rx="4" fill="#111827" stroke="#ff00aa" stroke-width="0.6"/>
+    <text x="258" y="259" fill="#ff00aa">Socket.IO</text>
+
+    <rect x="336" y="244" width="78" height="22" rx="4" fill="#111827" stroke="#ff00aa" stroke-width="0.6"/>
+    <text x="346" y="259" fill="#ff00aa">Razorpay</text>
+  </g>
+
+  <!-- Callout lines from components to specs area -->
+  <line x1="60" y1="244" x2="60" y2="220" stroke="#00f0ff" stroke-width="0.4" opacity="0.3" stroke-dasharray="3,2"/>
+  <line x1="288" y1="244" x2="288" y2="220" stroke="#ff00aa" stroke-width="0.4" opacity="0.3" stroke-dasharray="3,2"/>
+
+  <!-- Bottom title block -->
+  <rect x="12" y="280" width="416" height="28" rx="4" fill="#111827" opacity="0.5"/>
+  <text x="28" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">DWG: RVL-DINEZ-001</text>
+  <text x="240" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">REV: 2024</text>
+  <text x="340" y="298" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">SCALE: 1:1</text>
+</svg>

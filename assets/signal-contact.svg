@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <pattern id="gridSig" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.4" fill="#1e293b"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" rx="12" fill="#0a0e1a"/>
+  <rect width="900" height="200" rx="12" fill="url(#gridSig)" opacity="0.6"/>
+  <rect x="1" y="1" width="898" height="198" rx="12" fill="none" stroke="#00f0ff" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- Corner brackets -->
+  <path d="M 14 26 L 14 14 L 26 14" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 874 14 L 886 14 L 886 26" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 14 174 L 14 186 L 26 186" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 886 174 L 886 186 L 874 186" fill="none" stroke="#00f0ff" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Header -->
+  <rect x="14" y="14" width="872" height="28" rx="4" fill="#111827" opacity="0.8"/>
+  <text x="32" y="33" font-family="'Fira Code',monospace" font-size="11" fill="#00f0ff" letter-spacing="2">◇ OPEN CHANNEL — HAILING FREQUENCIES</text>
+  
+  <!-- Broadcasting indicator -->
+  <circle cx="830" cy="28" r="4" fill="#39ff14">
+    <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="842" y="32" font-family="'Fira Code',monospace" font-size="8" fill="#39ff14">LIVE</text>
+
+  <!-- Signal wave pattern (decorative) -->
+  <g transform="translate(0, 52)" opacity="0.15">
+    <path d="M 0 10 Q 30 -5, 60 10 T 120 10 T 180 10 T 240 10 T 300 10 T 360 10 T 420 10 T 480 10 T 540 10 T 600 10 T 660 10 T 720 10 T 780 10 T 840 10 T 900 10" fill="none" stroke="#00f0ff" stroke-width="1.5">
+      <animate attributeName="d" values="M 0 10 Q 30 -5, 60 10 T 120 10 T 180 10 T 240 10 T 300 10 T 360 10 T 420 10 T 480 10 T 540 10 T 600 10 T 660 10 T 720 10 T 780 10 T 840 10 T 900 10;M 0 10 Q 30 25, 60 10 T 120 10 T 180 10 T 240 10 T 300 10 T 360 10 T 420 10 T 480 10 T 540 10 T 600 10 T 660 10 T 720 10 T 780 10 T 840 10 T 900 10;M 0 10 Q 30 -5, 60 10 T 120 10 T 180 10 T 240 10 T 300 10 T 360 10 T 420 10 T 480 10 T 540 10 T 600 10 T 660 10 T 720 10 T 780 10 T 840 10 T 900 10" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Channel entries -->
+  <g font-family="'Fira Code','Cascadia Code',monospace">
+    
+    <!-- Email -->
+    <rect x="30" y="76" width="270" height="42" rx="6" fill="#111827" stroke="#00f0ff" stroke-width="0.5" opacity="0.8"/>
+    <text x="48" y="94" font-size="9" fill="#64748b" letter-spacing="1">CHANNEL_01: EMAIL</text>
+    <circle cx="48" cy="108" r="3" fill="#39ff14" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="60" y="112" font-size="12" fill="#e2e8f0">ragulkamelash@gmail.com</text>
+
+    <!-- GitHub -->
+    <rect x="315" y="76" width="270" height="42" rx="6" fill="#111827" stroke="#ff00aa" stroke-width="0.5" opacity="0.8"/>
+    <text x="333" y="94" font-size="9" fill="#64748b" letter-spacing="1">CHANNEL_02: GITHUB</text>
+    <circle cx="333" cy="108" r="3" fill="#39ff14" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="345" y="112" font-size="12" fill="#e2e8f0">github.com/Ragulvl</text>
+
+    <!-- LinkedIn -->
+    <rect x="600" y="76" width="270" height="42" rx="6" fill="#111827" stroke="#ffb800" stroke-width="0.5" opacity="0.8"/>
+    <text x="618" y="94" font-size="9" fill="#64748b" letter-spacing="1">CHANNEL_03: LINKEDIN</text>
+    <circle cx="618" cy="108" r="3" fill="#39ff14" opacity="0.7">
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="630" y="112" font-size="12" fill="#e2e8f0">linkedin.com/in/ragul-v-l</text>
+  </g>
+
+  <!-- Bottom signal strength -->
+  <g transform="translate(30, 140)">
+    <text x="0" y="14" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">SIGNAL STRENGTH:</text>
+    <!-- Signal bars -->
+    <rect x="120" y="8" width="4" height="6" rx="1" fill="#39ff14" opacity="0.6"/>
+    <rect x="127" y="5" width="4" height="9" rx="1" fill="#39ff14" opacity="0.7"/>
+    <rect x="134" y="2" width="4" height="12" rx="1" fill="#39ff14" opacity="0.8"/>
+    <rect x="141" y="-1" width="4" height="15" rx="1" fill="#39ff14" opacity="0.9"/>
+    <rect x="148" y="-4" width="4" height="18" rx="1" fill="#39ff14" opacity="1"/>
+    <text x="160" y="14" font-family="'Fira Code',monospace" font-size="8" fill="#39ff14">EXCELLENT</text>
+  </g>
+
+  <!-- Bottom bar -->
+  <rect x="14" y="172" width="872" height="18" rx="3" fill="#111827" opacity="0.5"/>
+  <text x="30" y="185" font-family="'Fira Code',monospace" font-size="8" fill="#64748b">FREQ: 3 CHANNELS │ MODE: OPEN-HAILING</text>
+  <text x="770" y="185" font-family="'Fira Code',monospace" font-size="8" fill="#00f0ff">COMM-SYS</text>
+</svg>
