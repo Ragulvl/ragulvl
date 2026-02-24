@@ -49,6 +49,14 @@
   <img src="assets/signal-contact.svg" alt="Communication Array" width="100%"/>
 </p>
 
+<p align="center">
+  <a href="mailto:ragulkamelash@gmail.com"><b>📧 Email</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Ragulvl"><b>💻 GitHub</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ragul-v-l"><b>🔗 LinkedIn</b></a>
+</p>
+
 <br/>
 
 <p align="center">
