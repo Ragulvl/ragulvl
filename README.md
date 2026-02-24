@@ -33,24 +33,9 @@
 <br/>
 
 <!-- Projects — Blueprints -->
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Ragulvl/dinez">
-        <img src="assets/blueprint-dinez.svg" alt="Schematic: Dinez" width="100%"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Ragulvl/dinez"><b>▸ View Repository</b></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Ragulvl/fusion-forge">
-        <img src="assets/blueprint-fusion.svg" alt="Schematic: Fusion Forge" width="100%"/>
-      </a>
-      <br/>
-      <a href="https://github.com/Ragulvl/fusion-forge"><b>▸ View Repository</b></a>
-    </td>
-  </tr>
-</table>
+
+| [![Schematic: Dinez](assets/blueprint-dinez.svg)](https://github.com/Ragulvl/dinez) | [![Schematic: Fusion Forge](assets/blueprint-fusion.svg)](https://github.com/Ragulvl/fusion-forge) |
+|:---:|:---:|
 
 <br/>
 
