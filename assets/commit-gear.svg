@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="160" viewBox="0 0 220 160" preserveAspectRatio="xMidYMid meet">
+  <rect width="220" height="160" rx="10" fill="#071025"/>
+  <g transform="translate(110,80)">
+    <!-- gear -->
+    <g transform="rotate(0)">
+      <g id="gear" fill="#94e4ff" opacity="0.95">
+        <circle r="28" fill="#0b2833"/>
+        <!-- gear teeth -->
+        <g fill="#94e4ff" opacity="0.9">
+          <rect x="-4" y="-46" width="8" height="12" rx="3"/>
+          <rect x="-4" y="34" width="8" height="12" rx="3" transform="rotate(180)"/>
+          <rect x="-46" y="-4" width="12" height="8" rx="3" transform="rotate(-90)"/>
+          <rect x="34" y="-4" width="12" height="8" rx="3" transform="rotate(90)"/>
+        </g>
+      </g>
+      <animateTransform href="#gear" attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- commit dots moving on arc -->
+    <g>
+      <circle r="4" fill="#00D4FF" cx="-60" cy="-36" opacity="0.9">
+        <animateTransform attributeName="transform" type="translate" values="-30 -20; 0 -52; 30 -20" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="4" fill="#7C3AED" cx="-60" cy="-36" opacity="0.7">
+        <animateTransform attributeName="transform" type="translate" values="-10 -12; 0 -48; 10 -12" dur="3s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>

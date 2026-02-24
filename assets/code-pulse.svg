@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="gp" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="12" fill="#071025"/>
+  <g transform="translate(40,40)" fill="none" stroke="url(#gp)" stroke-width="8" stroke-linecap="round">
+    <path d="M8 8 C 2 28, 2 50, 8 72" />
+    <path d="M112 8 C 118 28, 118 50, 112 72" />
+    <animateTransform attributeName="transform" attributeType="XML" type="scale" from="1" to="1.06" dur="1.2s" repeatCount="indefinite" additive="sum"/>
+    <animate attributeName="opacity" values="1;0.85;1" dur="1.2s" repeatCount="indefinite"/>
+  </g>
+</svg>
