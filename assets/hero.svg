@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#d2a8ff"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card background -->
+  <rect width="900" height="260" rx="12" fill="url(#bgGrad)"/>
+  <!-- Top accent line -->
+  <rect width="900" height="3" rx="12" fill="url(#accent)"/>
+
+  <!-- Dot grid pattern (right side) -->
+  <g fill="#21262d" opacity="0.5">
+    <circle cx="720" cy="40" r="1.2"/><circle cx="740" cy="40" r="1.2"/><circle cx="760" cy="40" r="1.2"/><circle cx="780" cy="40" r="1.2"/><circle cx="800" cy="40" r="1.2"/><circle cx="820" cy="40" r="1.2"/><circle cx="840" cy="40" r="1.2"/><circle cx="860" cy="40" r="1.2"/>
+    <circle cx="720" cy="56" r="1.2"/><circle cx="740" cy="56" r="1.2"/><circle cx="760" cy="56" r="1.2"/><circle cx="780" cy="56" r="1.2"/><circle cx="800" cy="56" r="1.2"/><circle cx="820" cy="56" r="1.2"/><circle cx="840" cy="56" r="1.2"/><circle cx="860" cy="56" r="1.2"/>
+    <circle cx="720" cy="72" r="1.2"/><circle cx="740" cy="72" r="1.2"/><circle cx="760" cy="72" r="1.2"/><circle cx="780" cy="72" r="1.2"/><circle cx="800" cy="72" r="1.2"/><circle cx="820" cy="72" r="1.2"/><circle cx="840" cy="72" r="1.2"/><circle cx="860" cy="72" r="1.2"/>
+    <circle cx="720" cy="88" r="1.2"/><circle cx="740" cy="88" r="1.2"/><circle cx="760" cy="88" r="1.2"/><circle cx="780" cy="88" r="1.2"/><circle cx="800" cy="88" r="1.2"/><circle cx="820" cy="88" r="1.2"/><circle cx="840" cy="88" r="1.2"/><circle cx="860" cy="88" r="1.2"/>
+    <circle cx="720" cy="104" r="1.2"/><circle cx="740" cy="104" r="1.2"/><circle cx="760" cy="104" r="1.2"/><circle cx="780" cy="104" r="1.2"/><circle cx="800" cy="104" r="1.2"/><circle cx="820" cy="104" r="1.2"/><circle cx="840" cy="104" r="1.2"/><circle cx="860" cy="104" r="1.2"/>
+    <circle cx="720" cy="120" r="1.2"/><circle cx="740" cy="120" r="1.2"/><circle cx="760" cy="120" r="1.2"/><circle cx="780" cy="120" r="1.2"/><circle cx="800" cy="120" r="1.2"/><circle cx="820" cy="120" r="1.2"/><circle cx="840" cy="120" r="1.2"/><circle cx="860" cy="120" r="1.2"/>
+  </g>
+
+  <!-- Code bracket accent (large, decorative) -->
+  <text x="780" y="210" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="100" fill="#21262d" opacity="0.4" font-weight="700">&lt;/&gt;</text>
+
+  <!-- Name -->
+  <text x="50" y="90" font-family="'Inter', 'Segoe UI', 'SF Pro Display', system-ui, sans-serif" font-size="48" fill="#e6edf3" font-weight="700" letter-spacing="-1">Ragul V L</text>
+
+  <!-- Role -->
+  <text x="50" y="128" font-family="'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="16" fill="#58a6ff" letter-spacing="0.5">AI &amp; Data Science Student · Full-Stack Builder</text>
+
+  <!-- One-liner -->
+  <text x="50" y="165" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#8b949e">Building production-ready web apps and practical ML systems.</text>
+  <text x="50" y="188" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#8b949e">Clean code · Scalable systems · Always shipping.</text>
+
+  <!-- Bottom accent line -->
+  <rect x="50" y="220" width="120" height="3" rx="2" fill="url(#accent)"/>
+
+  <!-- Status indicator -->
+  <circle cx="58" cy="244" r="4" fill="#3fb950"/>
+  <text x="70" y="248" font-family="'Fira Code', monospace" font-size="12" fill="#8b949e">Open to internships &amp; SDE opportunities</text>
+</svg>
